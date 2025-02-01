@@ -1,0 +1,8 @@
+.socials a {
+    text-decoration: none;
+}
+
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
